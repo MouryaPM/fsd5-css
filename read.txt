@@ -1,0 +1,35 @@
+1.inline css 
+
+h1,div,p..... = selectors
+key -> value ;
+h1 {color:blue}
+
+style
+h1 style="color:brown"
+h1- selectors
+style -attribute
+color:property
+brown -> value
+
+1. change /apply text color 
+        - color  - property name
+            Values
+            - color name 
+
+            - rgb
+                reg , green , blue 
+                rgb(red,green ,blue)
+                0 to 255 - red, green and blue
+                0 - black 
+                255- full color
+
+            - hex
+                #RRGGBB
+                00 to ff
+                00 - 99
+                23 89
+                aa - ff
+
+                #000000 - black 
+                #ffffff - white
+            - hsl 
